@@ -1,3 +1,3 @@
 # test-resolusion
 
-restsory test 
+repository test 
