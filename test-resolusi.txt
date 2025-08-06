@@ -1,0 +1,4 @@
+test-resolusi
+-saya ingin membuat project sekolah
+-membuat web untuk perhitungan luas dan keliling
+-membuat  webnya secara kolaborasi
