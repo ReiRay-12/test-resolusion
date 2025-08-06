@@ -3,6 +3,8 @@ rencara konten
 - javascript
  *es6
  *framewrk javascript
-- fundamental data struktur
+  - angular
+  - react
 - php framework
+  -Laravel
 - interview
