@@ -3,5 +3,6 @@ rencara konten
 - javascript
  *es6
  *framewrk javascript
+- fundamental data struktur
 - php framework
 - interview
