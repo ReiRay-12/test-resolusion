@@ -4,6 +4,7 @@ rencara konten
  *es6
  *framewrk javascript
   -view
+  -react
 - fundamental data struktur
 - php framework
  - laravel
